@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About me ([CV](https://hypnosxc.github.io/files/CV_ChenXu.pdf))"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,4 +11,8 @@ I am a recent graduate in [MCG GROUP](https://mcg.nju.edu.cn/) at [Nanjing Unive
 
 My academic pursuits are centered on the exciting fields of computer vision and graphics. Currently, I am particularly engrossed in the development of Generative Models and **Accelerating Diffuison Models**. I have a consistent focus on foundation Multi-modal models, with a preference for Vision-Language Models, and I am keen on advancing **Efficient and Transfer Learning methodologies** based on these models.
 
-<font color=red>**NEW**: I am actively seeking Ph.D. opportunities in the upcoming 2025 (my [CV](https://hypnosxc.github.io/files/CV_ChenXu.pdf) here). If you see potential alignment with my research interests and your program, please feel free to reach out to me directly via [Email](chenxu24568@gmail.com). I am eager to explore collaborative possibilities and continue my contributions to the field.</font>
+<font color=red>**NEW**: I am actively seeking Ph.D. opportunities in the upcoming 2025. If you see potential alignment with my research interests and your program, please feel free to reach out to me directly via email. I am eager to explore collaborative possibilities and continue my contributions to the field.</font>
+
+Publications
+============
+
