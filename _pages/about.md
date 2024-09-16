@@ -14,8 +14,8 @@ My academic pursuits are centered on the exciting fields of computer vision and 
 <font size=2 color=red>**NEW**: I am actively seeking Ph.D. opportunities in the upcoming 2025. If you see potential alignment with my research interests and your program, please feel free to reach out to me directly via email. I am eager to explore collaborative possibilities and continue my contributions to the field.</font>
 <br><br>
 
-<font size=4>Research</font>
-======
+Research
+-----
 
 
 
