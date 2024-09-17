@@ -63,7 +63,7 @@ Research
         <strong>Progressive Visual Prompt Learning with Contrastive Feature Re-formation
         </strong>
         <br>
-        <strong>Chen Xu*</strong>, Yuhan Zhu*, Haocheng Shen, Boheng Chen, Yixuan Liao, Xiaoxin Chen, <a href="https://mcg.nju.edu.cn/member/gswu/en/index.html">Gangshan Wu</a>, <a href="https://wanglimin.github.io/">Limin Wang</a>
+        <strong>Chen Xu</strong>, Yuhan Zhu, Haocheng Shen, Boheng Chen, Yixuan Liao, Xiaoxin Chen, <a href="https://mcg.nju.edu.cn/member/gswu/en/index.html">Gangshan Wu</a>, <a href="https://wanglimin.github.io/">Limin Wang</a>
         <br>
         <em>IJCV</em>, 2024
         <br>
@@ -82,7 +82,7 @@ Research
         <strong>DPL: Decoupled Prompt Learning for Vision-Language Models
         </strong>
         <br>
-        <strong>Chen Xu</strong>, Yuhan Zhu, Haocheng Shen, Boheng Chen, Yixuan Liao, Xiaoxin Chen, <a href="https://mcg.nju.edu.cn/member/gswu/en/index.html">Gangshan Wu</a>, <a href="https://wanglimin.github.io/">Limin Wang</a>
+        <strong>Chen Xu*</strong>, Yuhan Zhu*, Haocheng Shen, Boheng Chen, Yixuan Liao, Xiaoxin Chen, <a href="https://mcg.nju.edu.cn/member/gswu/en/index.html">Gangshan Wu</a>, <a href="https://wanglimin.github.io/">Limin Wang</a>
         <br>
         <em>Arxiv</em>, 2024
         <br>
