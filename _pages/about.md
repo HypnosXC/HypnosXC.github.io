@@ -20,7 +20,7 @@ Research
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
       <td style="padding:5px;width:30%;vertical-align:middle">
         <div class="one"><div class="two" id='dmn_image'>
-          <img src='images/SPLAM.jpg' width="160">
+          <img src='images/SPLAM.jpg' width="200">
           </div></div>
       </td>
       <td style="padding:20px;width:70%;vertical-align:middle">
@@ -41,7 +41,7 @@ Research
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
       <td style="padding:5px;width:30%;vertical-align:middle">
         <div class="one"><div class="two" id='dmn_image'>
-          <img src='images/TTPT.jpg' width="160"></div></div>
+          <img src='images/TTPT.jpg' width="200"></div></div>
       </td>
       <td style="padding:20px;width:70%;vertical-align:middle">
         <strong>Efficient Test-Time Prompt Tuning for Vision-Language Models
@@ -57,7 +57,7 @@ Research
   <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
       <td style="padding:5px;width:30%;vertical-align:middle">
         <div class="one"><div class="two" id='dmn_image'>
-                  <img src='images/ProVP.jpg' width="160"></div></div>
+                  <img src='images/ProVP.jpg' width="200"></div></div>
       </td>
       <td style="padding:20px;width:70%;vertical-align:middle">
         <strong>Progressive Visual Prompt Learning with Contrastive Feature Re-formation
@@ -76,7 +76,7 @@ Research
   <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
       <td style="padding:5px;width:30%;vertical-align:middle">
         <div class="one"><div class="two" id='dmn_image'>
-          <img src='images/DPL.jpg' width="160"></div></div>
+          <img src='images/DPL.jpg' width="200"></div></div>
       </td>
       <td style="padding:20px;width:70%;vertical-align:middle">
         <strong>DPL: Decoupled Prompt Learning for Vision-Language Models
