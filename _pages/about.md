@@ -20,17 +20,15 @@ Research
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
       <td style="padding:20px;width:25%;vertical-align:middle">
         <div class="one"><div class="two" id='dmn_image'>
-          <object data="../images/SPLAM.pdf" type="application/pdf" width="60">
-            <iframe src="../images/SPLAM.pdf" id="pdf-iframe" width="100%" style="border:none;" onload="resizeIframe(this);"></iframe>
-              <script>
-                function resizeIframe(obj) {
-                  var height = obj.contentWindow.document.documentElement.scrollHeight;
-                  obj.style.height = height + 'px';
-                }
-              </script>
-              <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../images/SPLAM.pdf">Download PDF</a>.</p>
-            </iframe>
-          </object>
+          <iframe src="../images/SPLAM.pdf" id="pdf-iframe" width="100%" style="border:none;" onload="resizeIframe(this);"></iframe>
+            <script>
+              function resizeIframe(obj) {
+                var height = obj.contentWindow.document.documentElement.scrollHeight;
+                obj.style.height = height + 'px';
+              }
+            </script>
+            <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../images/SPLAM.pdf">Download PDF</a>.</p>
+          </iframe>
           </div></div>
       </td>
       <td style="padding:20px;width:75%;vertical-align:middle">
