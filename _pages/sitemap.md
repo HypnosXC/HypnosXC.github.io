@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Chen Xu"
-permalink: /
+permalink: /about/
 author_profile: true
 ---
 <!-- 
