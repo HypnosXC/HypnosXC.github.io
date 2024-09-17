@@ -20,8 +20,8 @@ Research
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
       <td style="padding:20px;width:25%;vertical-align:middle">
         <div class="one"><div class="two" id='dmn_image'>
-          <object data="../images/SPLAM.pdf" type="application/pdf" width="160px" height="40%">
-          <embed src="../images/SPLAM.pdf" width="100%" height="40%">
+          <object data="../images/SPLAM.pdf" type="application/pdf" width="160px" height="1">
+          <embed src="../images/SPLAM.pdf" width="100%" height="1">
           <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../images/SPLAM.pdf">Download PDF</a>.</p>
           </embed>
           </object>
@@ -45,7 +45,7 @@ Research
       <td style="padding:20px;width:25%;vertical-align:middle">
         <div class="one"><div class="two" id='dmn_image'>
           <object data="../images/TTPT.pdf" type="application/pdf" width="160px" height="40%">
-            <embed src="../images/TTPT.pdf" width="100%" height="40%">
+            <embed src="../images/TTPT.pdf" width="100%" height="1">
               <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../images/TTPT.pdf">Download PDF</a>.</p>
             </embed>
           </object>
