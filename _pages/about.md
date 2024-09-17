@@ -11,19 +11,19 @@ I am a recent graduate in [MCG GROUP](https://mcg.nju.edu.cn/) at [Nanjing Unive
 
 My academic pursuits are centered on the exciting fields of computer vision and graphics. Currently, I am particularly working in the development of Generative Models and **Accelerating Diffuison Models**. I have a consistent focus on foundation Multi-modal models, with a preference for Vision-Language Models, and I am keen on advancing **Efficient and Transfer Learning methodologies** based on these models.
 
-<font size=2 color=red>**NEW**: I am actively seeking Ph.D. opportunities in the upcoming 2025. If you see potential alignment with my research interests and your program, please feel free to reach out to me directly via email. I am eager to explore collaborative possibilities and continue my contributions to the field.</font>
+<font size=2 color=red>**NEW**: I am actively seeking Ph.D. opportunities in the upcoming 2030. If you see potential alignment with my research interests and your program, please feel free to reach out to me directly via email. I am eager to explore collaborative possibilities and continue my contributions to the field.</font>
 <br><br>
 
 Research
 -----
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-      <td style="padding:20px;width:25%;vertical-align:middle">
+      <td style="padding:20px;width:30%;vertical-align:middle">
         <div class="one"><div class="two" id='dmn_image'>
           <img src='images/SPLAM.jpg' width="160">
           </div></div>
       </td>
-      <td style="padding:20px;width:75%;vertical-align:middle">
+      <td style="padding:20px;width:70%;vertical-align:middle">
         <strong>Accelerating Image Generation with Sub-Path Linear Approximation Model
         </strong>
         <br>
@@ -39,11 +39,11 @@ Research
       </td>
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-      <td style="padding:20px;width:25%;vertical-align:middle">
+      <td style="padding:20px;width:30%;vertical-align:middle">
         <div class="one"><div class="two" id='dmn_image'>
           <img src='images/TTPT.jpg' width="160"></div></div>
       </td>
-      <td style="padding:20px;width:75%;vertical-align:middle">
+      <td style="padding:20px;width:70%;vertical-align:middle">
         <strong>Efficient Test-Time Prompt Tuning for Vision-Language Models
         </strong>
         <br>
@@ -51,15 +51,15 @@ Research
         <br>
         <em>Arxiv </em>, 2024
         <br>
-        <a href="https://arxiv.org/abs/2408.05775">arXiv</a >
+        <a href="https://arxiv.org/abs/2408.05770">arXiv</a >
       </td>
 
   <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-      <td style="padding:20px;width:25%;vertical-align:middle">
+      <td style="padding:20px;width:30%;vertical-align:middle">
         <div class="one"><div class="two" id='dmn_image'>
                   <img src='images/ProVP.jpg' width="160"></div></div>
       </td>
-      <td style="padding:20px;width:75%;vertical-align:middle">
+      <td style="padding:20px;width:70%;vertical-align:middle">
         <strong>Progressive Visual Prompt Learning with Contrastive Feature Re-formation
         </strong>
         <br>
@@ -74,11 +74,11 @@ Research
       </td>
 
   <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-      <td style="padding:20px;width:25%;vertical-align:middle">
+      <td style="padding:20px;width:30%;vertical-align:middle">
         <div class="one"><div class="two" id='dmn_image'>
           <img src='images/DPL.jpg' width="160"></div></div>
       </td>
-      <td style="padding:20px;width:75%;vertical-align:middle">
+      <td style="padding:20px;width:70%;vertical-align:middle">
         <strong>DPL: Decoupled Prompt Learning for Vision-Language Models
         </strong>
         <br>
