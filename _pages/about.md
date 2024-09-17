@@ -63,7 +63,6 @@ Research
         <br>
         <a href="https://arxiv.org/abs/2408.05775">arXiv</a >
       </td>
-    </tr>
 
   <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
       <td style="padding:20px;width:25%;vertical-align:middle">
@@ -83,7 +82,6 @@ Research
         <p>We present Progressive Visual Prompt Learning with Contrastive Feature Re-formation (ProVP-Ref), a novel visual prompt learning architecture based on Vision-language Models.
         </p>
       </td>
-    </tr>
 
   <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
       <td style="padding:20px;width:25%;vertical-align:middle">
@@ -107,4 +105,3 @@ Research
         <p>We present Temporal Perceiver (TP), a general architecture based on Transformer decoders as a unified solution to detect arbitrary generic boundaries, including shot-level, event-level and scene-level temporal boundaries.
         </p>
       </td>
-    </tr>
