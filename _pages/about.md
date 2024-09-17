@@ -17,5 +17,94 @@ My academic pursuits are centered on the exciting fields of computer vision and 
 Research
 -----
 
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one"><div class="two" id='dmn_image'>
+          <object data="../images/SPLAM.pdf" type="application/pdf" width="160px">
+            <embed src="../images/SPLAM.pdf" width="160">
+              <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../images/SPLAM.pdf">Download PDF</a>.</p>
+            </embed>
+          </object>
+          </div></div>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <strong>Accelerating Image Generation with Sub-Path Linear Approximation Model
+        </strong>
+        <br>
+        <strong>Chen Xu*</strong>, Tianhui Song*, Weixin Feng, Xubin Li, Tiezheng Ge, Bo Zheng, <a href="https://wanglimin.github.io/">Limin Wang</a>
+        <br>
+        <em>ECCV <strong>Oral</strong></em>, 2024
+        <br>
+        <a href="https://arxiv.org/abs/2404.13903">arXiv</a > /
+        <a href="https://github.com/MCG-NJU/SPLAM">code</a > /
+        <a href="https://subpath-linear-approx-model.github.io/">project</a >
+        <p>Sub-path Linear Approximation Models (SPLAM) give a continous and progressive error estimation for separated PF-ODE sub-paths and generate images with high quality within 2-4 inference steps.
+        </p>
+      </td>
+    </tr>
 
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one"><div class="two" id='dmn_image'>
+          <object data="../images/TTPT.pdf" type="application/pdf" width="160px">
+            <embed src="../images/TTPT.pdf" width="160">
+              <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../images/TTPT.pdf">Download PDF</a>.</p>
+            </embed>
+          </object>
+          </div></div>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <strong>Efficient Test-Time Prompt Tuning for Vision-Language Models
+        </strong>
+        <br>
+        Yuhan Zhu, Guozhen Zhang, <strong>Chen Xu</strong>, Haocheng Shen, Xiaoxin Chen, <a href="https://mcg.nju.edu.cn/member/gswu/en/index.html">Gangshan Wu</a>, <a href="https://wanglimin.github.io/">Limin Wang</a>
+        <br>
+        <em>Arxiv </em>, 2024
+        <br>
+        <a href="https://arxiv.org/abs/2408.05775">arXiv</a >
+      </td>
+    </tr>
 
+  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one"><div class="two" id='dmn_image'>
+                  <img src='images/ProVP.jpg' width="160"></div></div>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <strong>Progressive Visual Prompt Learning with Contrastive Feature Re-formation
+        </strong>
+        <br>
+        <strong>Chen Xu*</strong>, Yuhan Zhu*, Haocheng Shen, Boheng Chen, Yixuan Liao, Xiaoxin Chen, <a href="https://mcg.nju.edu.cn/member/gswu/en/index.html">Gangshan Wu</a>, <a href="https://wanglimin.github.io/">Limin Wang</a>
+        <br>
+        <em>IJCV</em>, 2024
+        <br>
+        <a href="https://arxiv.org/abs/2304.08386">arXiv</a > /
+        <a href="https://github.com/MCG-NJU/ProVP">code</a > 
+        <p>We present Progressive Visual Prompt Learning with Contrastive Feature Re-formation (ProVP-Ref), a novel visual prompt learning architecture based on Vision-language Models.
+        </p>
+      </td>
+    </tr>
+
+  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one"><div class="two" id='dmn_image'>
+          <object data="../images/DPL.pdf" type="application/pdf" width="160px">
+            <embed src="../images/DPL.pdf" width="160">
+              <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../images/DPL.pdf">Download PDF</a>.</p>
+            </embed>
+          </object>
+          </div></div>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <strong>DPL: Decoupled Prompt Learning for Vision-Language Models
+        </strong>
+        <br>
+        <strong>Chen Xu*</strong>, Yuhan Zhu*, Haocheng Shen, Boheng Chen, Yixuan Liao, Xiaoxin Chen, <a href="https://mcg.nju.edu.cn/member/gswu/en/index.html">Gangshan Wu</a>, <a href="https://wanglimin.github.io/">Limin Wang</a>
+        <br>
+        <em>Arxiv</em>, 2024
+        <br>
+        <a href="https://arxiv.org/abs/2308.10061">arXiv</a >
+        <p>We present Temporal Perceiver (TP), a general architecture based on Transformer decoders as a unified solution to detect arbitrary generic boundaries, including shot-level, event-level and scene-level temporal boundaries.
+        </p>
+      </td>
+    </tr>
