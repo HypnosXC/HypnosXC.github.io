@@ -18,7 +18,7 @@ Research
 -----
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-      <td style="padding:20px;width:30%;vertical-align:middle">
+      <td style="padding:5px;width:30%;vertical-align:middle">
         <div class="one"><div class="two" id='dmn_image'>
           <img src='images/SPLAM.jpg' width="160">
           </div></div>
@@ -39,7 +39,7 @@ Research
       </td>
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-      <td style="padding:20px;width:30%;vertical-align:middle">
+      <td style="padding:5px;width:30%;vertical-align:middle">
         <div class="one"><div class="two" id='dmn_image'>
           <img src='images/TTPT.jpg' width="160"></div></div>
       </td>
@@ -55,7 +55,7 @@ Research
       </td>
 
   <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-      <td style="padding:20px;width:30%;vertical-align:middle">
+      <td style="padding:5px;width:30%;vertical-align:middle">
         <div class="one"><div class="two" id='dmn_image'>
                   <img src='images/ProVP.jpg' width="160"></div></div>
       </td>
@@ -74,7 +74,7 @@ Research
       </td>
 
   <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-      <td style="padding:20px;width:30%;vertical-align:middle">
+      <td style="padding:5px;width:30%;vertical-align:middle">
         <div class="one"><div class="two" id='dmn_image'>
           <img src='images/DPL.jpg' width="160"></div></div>
       </td>
