@@ -21,9 +21,15 @@ Research
       <td style="padding:20px;width:25%;vertical-align:middle">
         <div class="one"><div class="two" id='dmn_image'>
           <object data="../images/SPLAM.pdf" type="application/pdf" width="60">
-            <embed src="../images/SPLAM.pdf" width="100%" height="60">
+            <iframe src="../images/SPLAM.pdf" id="pdf-iframe" width="100%" style="border:none;" onload="resizeIframe(this);"></iframe>
+              <script>
+                function resizeIframe(obj) {
+                  var height = obj.contentWindow.document.documentElement.scrollHeight;
+                  obj.style.height = height + 'px';
+                }
+              </script>
               <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../images/SPLAM.pdf">Download PDF</a>.</p>
-            </embed>
+            </iframe>
           </object>
           </div></div>
       </td>
@@ -66,7 +72,7 @@ Research
   <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
       <td style="padding:20px;width:25%;vertical-align:middle">
         <div class="one"><div class="two" id='dmn_image'>
-                  <img src='images/ProVP.jpg' width="160" height="100%"></div></div>
+                  <img src='images/ProVP.jpg' width="160" height="1"></div></div>
       </td>
       <td style="padding:20px;width:75%;vertical-align:middle">
         <strong>Progressive Visual Prompt Learning with Contrastive Feature Re-formation
