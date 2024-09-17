@@ -20,11 +20,7 @@ Research
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
       <td style="padding:20px;width:25%;vertical-align:middle">
         <div class="one"><div class="two" id='dmn_image'>
-          <object data="../images/SPLAM.pdf" type="application/pdf" width="160px" height="1">
-          <embed src="../images/SPLAM.pdf" width="100%" height="1">
-          <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../images/SPLAM.pdf">Download PDF</a>.</p>
-          </embed>
-          </object>
+          <img src='images/SPLAM.jpg' width="160">
           </div></div>
       </td>
       <td style="padding:20px;width:75%;vertical-align:middle">
@@ -45,12 +41,7 @@ Research
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
       <td style="padding:20px;width:25%;vertical-align:middle">
         <div class="one"><div class="two" id='dmn_image'>
-          <object data="../images/TTPT.pdf" type="application/pdf" width="160px" height="1">
-            <embed src="../images/TTPT.pdf" width="100%" height="1">
-              <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../images/TTPT.pdf">Download PDF</a>.</p>
-            </embed>
-          </object>
-          </div></div>
+          <img src='images/TTPT.jpg' width="160"></div></div>
       </td>
       <td style="padding:20px;width:75%;vertical-align:middle">
         <strong>Efficient Test-Time Prompt Tuning for Vision-Language Models
@@ -66,7 +57,7 @@ Research
   <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
       <td style="padding:20px;width:25%;vertical-align:middle">
         <div class="one"><div class="two" id='dmn_image'>
-                  <img src='images/ProVP.jpg' width="160" height="1"></div></div>
+                  <img src='images/ProVP.jpg' width="160"></div></div>
       </td>
       <td style="padding:20px;width:75%;vertical-align:middle">
         <strong>Progressive Visual Prompt Learning with Contrastive Feature Re-formation
@@ -85,12 +76,7 @@ Research
   <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
       <td style="padding:20px;width:25%;vertical-align:middle">
         <div class="one"><div class="two" id='dmn_image'>
-          <object data="../images/DPL.pdf" type="application/pdf" width="160px">
-            <embed src="../images/DPL.pdf" width="160">
-              <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../images/DPL.pdf">Download PDF</a>.</p>
-            </embed>
-          </object>
-          </div></div>
+          <img src='images/DPL.jpg' width="160"></div></div>
       </td>
       <td style="padding:20px;width:75%;vertical-align:middle">
         <strong>DPL: Decoupled Prompt Learning for Vision-Language Models
