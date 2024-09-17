@@ -69,7 +69,7 @@ Research
         <br>
         <a href="https://arxiv.org/abs/2304.08386">arXiv</a > /
         <a href="https://github.com/MCG-NJU/ProVP">code</a > 
-        <p>We present Progressive Visual Prompt Learning with Contrastive Feature Re-formation (ProVP-Ref), a novel visual prompt learning architecture based on Vision-language Models.
+        <p>We present Progressive Visual Prompt Learning with Contrastive Feature Re-formation (ProVP-Ref), a novel visual prompt learning architecture for the efficient transfer learning of  Vision-language Models.
         </p>
       </td>
 
