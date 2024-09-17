@@ -25,6 +25,7 @@ Research
           <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../images/SPLAM.pdf">Download PDF</a>.</p>
           </embed>
           </object>
+          </div></div>
       </td>
       <td style="padding:20px;width:75%;vertical-align:middle">
         <strong>Accelerating Image Generation with Sub-Path Linear Approximation Model
