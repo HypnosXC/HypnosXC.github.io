@@ -20,16 +20,11 @@ Research
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
       <td style="padding:20px;width:25%;vertical-align:middle">
         <div class="one"><div class="two" id='dmn_image'>
-          <iframe src="../images/SPLAM.pdf" id="pdf-iframe" width="160" style="border:none;" onload="resizeIframe(this);">
+          <object data="../images/SPLAM.pdf" type="application/pdf" width="160px" height="30%">
+          <embed src="../images/SPLAM.pdf" width="100%" height="30%">
           <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../images/SPLAM.pdf">Download PDF</a>.</p>
-          </iframe>
-          <script>
-            function resizeIframe(obj) {
-              var height = obj.contentWindow.document.documentElement.scrollHeight*0.25;
-              obj.style.height = height + 'px';
-            }
-          </script>
-          </div></div>
+          </embed>
+          </object>
       </td>
       <td style="padding:20px;width:75%;vertical-align:middle">
         <strong>Accelerating Image Generation with Sub-Path Linear Approximation Model
