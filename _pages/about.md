@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a Ph.D. student at the University of Hong Kong, under the supervision of Professor [Yi Ma](https://people.eecs.berkeley.edu/~yima/). I was graduated as a Master student from [MCG GROUP](https://mcg.nju.edu.cn/) at [Nanjing University](https://cs.nju.edu.cn/main.htm/), supervised by [Prof. Limin Wang](https://wanglimin.github.io/). And I also obtained the B.Sc degree from [Nanjing University](https://cs.nju.edu.cn/main.htm/) in 2021, where I was fortunate to cross paths with my mentor, setting the course for my academic journey.
 
-My academic pursuits are centered on computer vision and graphics. Currently I am focused on Generative Models and **Accelerating Diffuison Models**. I have a consistent interest on Vision-Language Foundation Models.
+My research interests lie in computer vision and graphics, with a current focus on **generative models for motion and videos**. Previously, I worked on **accelerating generative models**.
 
 ## Research
 
